@@ -14,7 +14,11 @@ canteleport = 1;
 
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
+<<<<<<< HEAD
 /// @DnDHash : 5FF15DF2
+=======
+/// @DnDHash : 55E80880
+>>>>>>> master
 /// @DnDApplyTo : 8a746b3a-cd51-41fd-87a0-0d775a576641
 /// @DnDArgument : "health" "100"
 with(obj_player) {
