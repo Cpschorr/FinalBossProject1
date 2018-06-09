@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "034c6d2d-cfe0-4572-85ab-a68572deb3e5",
+            "Value": {
+                "id": "ba75c5e7-9715-4206-89e1-7dd44208fdb2",
+                "resourcePath": "objects\\obj_text3\\obj_text3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0ecbe084-5e27-4567-ae72-fa8c1d60de1b",
             "Value": {
                 "id": "0794faff-8f3f-48db-80d4-59c9e29d15ab",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "4ecb0f49-481b-439e-96b1-32a397154ec5",
+            "Value": {
+                "id": "d4c6fff4-b0a7-421c-a8a9-d1ae0582ad76",
+                "resourcePath": "objects\\obj_text\\obj_text.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "50760218-c3ee-40be-8530-a61be6e783fd",
             "Value": {
                 "id": "2925c6a1-9358-4eba-95c3-65c0636dc732",
@@ -292,6 +308,14 @@
                 "id": "c46f610a-21d9-4387-8c09-ba41323b6ce1",
                 "resourcePath": "sprites\\spr_pizza\\spr_pizza.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "713e852e-9bdf-4455-be92-6c76012d8d42",
+            "Value": {
+                "id": "de480fc3-676f-4030-86fc-d404346ebb70",
+                "resourcePath": "objects\\obj_text1\\obj_text1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -431,6 +455,14 @@
             }
         },
         {
+            "Key": "a119610f-16ba-4104-868a-f2530bd35247",
+            "Value": {
+                "id": "bf6b1b79-497f-4454-be05-6c84478dd666",
+                "resourcePath": "objects\\obj_text2\\obj_text2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a3297ff9-0213-40ed-b35d-24a9d6585d04",
             "Value": {
                 "id": "db3197f1-afa5-4171-bcf0-a7cf8187d3a0",
@@ -475,6 +507,14 @@
             "Value": {
                 "id": "81eeca7c-9367-4334-afa3-12e4119891c0",
                 "resourcePath": "rooms\\roomlvl1\\roomlvl1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "b8d222e8-bc58-4ad1-ab38-024c6c83842f",
+            "Value": {
+                "id": "45045841-9c3a-4462-9d3a-3d261ca12b97",
+                "resourcePath": "rooms\\room_scene1\\room_scene1.yy",
                 "resourceType": "GMRoom"
             }
         },
