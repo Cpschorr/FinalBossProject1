@@ -175,11 +175,27 @@
             }
         },
         {
+            "Key": "513ca7fe-6a61-4bdb-96d9-a04fd4365e24",
+            "Value": {
+                "id": "e9f129a1-6324-494d-a394-aebeb7856444",
+                "resourcePath": "objects\\obj_textbox\\obj_textbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "51ee7ff6-6019-47af-bbd3-7d4f8e54df7e",
             "Value": {
                 "id": "60550a86-583c-41f1-8346-d4d55940308d",
                 "resourcePath": "timelines\\timeline1\\timeline1.yy",
                 "resourceType": "GMTimeline"
+            }
+        },
+        {
+            "Key": "55d2d969-c72d-493c-88d1-990c366ec33b",
+            "Value": {
+                "id": "b5a9fcf8-900a-4eb8-a0b2-f62e92cd42fc",
+                "resourcePath": "sprites\\spr_textbox\\spr_textbox.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
