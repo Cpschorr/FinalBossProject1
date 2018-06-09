@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "51ee7ff6-6019-47af-bbd3-7d4f8e54df7e",
+            "Value": {
+                "id": "60550a86-583c-41f1-8346-d4d55940308d",
+                "resourcePath": "timelines\\timeline1\\timeline1.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "567be8eb-373a-41b3-8a72-678ad542c587",
             "Value": {
                 "id": "c9536fd1-dd5a-409c-b5cf-e7f20fc83d08",
@@ -252,6 +260,14 @@
                 "id": "c46f610a-21d9-4387-8c09-ba41323b6ce1",
                 "resourcePath": "sprites\\spr_pizza\\spr_pizza.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "790e27d5-7aae-405b-ac59-1d32cc3e0b90",
+            "Value": {
+                "id": "0f8aac2d-c8c0-489d-a689-3125deb005aa",
+                "resourcePath": "rooms\\room_scene1\\room_scene1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
