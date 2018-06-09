@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <Layouts><Layout layout_name="DnDWorkspace" layout_guid="2395ade2-d000-4e7e-8a2e-21302c2a5b13" toolbox_size="25%" toolbox_anchor="Last" story_size="93px"><Workspace zoom="0.83" pan="[35, 366]" /><Node left="14.66667" top="125.6667" width="760" height="463" hash="3892C0DD" /></Layout></Layouts>
+=======
+<Layouts><Layout layout_name="DnDWorkspace" layout_guid="e56b3387-4906-4582-82c2-e7af93406ed1" toolbox_size="25%" toolbox_anchor="Last" story_size="93px"><Workspace zoom="0.83" pan="[35, -195]" /><Node left="14.66667" top="125.6667" width="760" height="463" hash="3892C0DD" /></Layout></Layouts>
+>>>>>>> Fran's-Branch

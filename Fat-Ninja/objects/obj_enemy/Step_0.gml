@@ -1,6 +1,10 @@
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
+<<<<<<< HEAD
+/// @DnDHash : 3D346D55
+=======
 /// @DnDHash : 4CCF51C8
+>>>>>>> master
 /// @DnDArgument : "var" "canchase"
 /// @DnDArgument : "value" "1"
 if(canchase == 1)
@@ -8,7 +12,11 @@ if(canchase == 1)
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 7E0B7950
+<<<<<<< HEAD
+	/// @DnDParent : 3D346D55
+=======
 	/// @DnDParent : 4CCF51C8
+>>>>>>> master
 	/// @DnDArgument : "expr" "distance_to_object(obj_player)"
 	/// @DnDArgument : "var" "distance"
 	distance = distance_to_object(obj_player);
@@ -16,7 +24,11 @@ if(canchase == 1)
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 4747C6C9
+<<<<<<< HEAD
+	/// @DnDParent : 3D346D55
+=======
 	/// @DnDParent : 4CCF51C8
+>>>>>>> master
 	/// @DnDArgument : "var" "distance"
 	/// @DnDArgument : "op" "3"
 	/// @DnDArgument : "value" "200"
@@ -75,7 +87,11 @@ if(canchase == 1)
 	/// @DnDAction : YoYo Games.Common.Else
 	/// @DnDVersion : 1
 	/// @DnDHash : 5890DF3E
+<<<<<<< HEAD
+	/// @DnDParent : 3D346D55
+=======
 	/// @DnDParent : 4CCF51C8
+>>>>>>> master
 	else
 	{
 		/// @DnDAction : YoYo Games.Movement.Set_Speed

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+<Layouts><Layout layout_name="DnDWorkspace" layout_guid="beaea83b-c1fc-4792-a1b1-b1fb6fe0a19d" toolbox_size="25%" toolbox_anchor="Last" story_size="225px"><Workspace zoom="1" pan="[43, 0]" /><Node left="44" top="118.3333" width="232" height="93" hash="74DABAED" /><Node left="44" top="221.3333" width="232" height="93" hash="772D783E" /></Layout></Layouts>
+=======
 <Layouts><Layout layout_name="DnDWorkspace" layout_guid="c2e1610c-81ef-49f9-b6a6-08922553fd82" toolbox_size="25%" toolbox_anchor="Last" story_size="225px"><Workspace zoom="1" pan="[43, -134]" /><Node left="44" top="118.3333" width="232" height="93" hash="74DABAED" /><Node left="44" top="221.3333" width="232" height="93" hash="75BE6ADE" /></Layout></Layouts>
+>>>>>>> master

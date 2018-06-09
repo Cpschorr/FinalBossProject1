@@ -1,11 +1,19 @@
 /// @DnDAction : YoYo Games.Drawing.Draw_Self
 /// @DnDVersion : 1
+<<<<<<< HEAD
+/// @DnDHash : 1D5E5083
+=======
 /// @DnDHash : 2271E0C9
+>>>>>>> master
 draw_self();
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Healthbar
 /// @DnDVersion : 1
+<<<<<<< HEAD
+/// @DnDHash : 2FABFDBC
+=======
 /// @DnDHash : 471B2072
+>>>>>>> master
 /// @DnDArgument : "x2" "300"
 /// @DnDArgument : "y2" "25"
 /// @DnDArgument : "value" "health"

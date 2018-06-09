@@ -95,6 +95,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "2ab70595-8bfb-4f30-a223-b984b3041070",
             "Value": {
                 "id": "63e02fe3-f8dc-4389-9547-380a7adfcad9",
@@ -103,11 +104,21 @@
             }
         },
         {
+=======
+<<<<<<< HEAD
+            "Key": "2d3aca8c-a95c-4d20-99b9-2a9072befb4d",
+            "Value": {
+                "id": "eb5f756e-95e8-41d6-95a7-81ca754350b4",
+                "resourcePath": "rooms\\roomlvl1\\roomlvl1.yy",
+                "resourceType": "GMRoom"
+=======
+>>>>>>> Fran's-Branch
             "Key": "2bbe0990-1d2f-4d18-b84e-753cebdab4b5",
             "Value": {
                 "id": "6d26c273-473a-47da-b4b6-873781eb50f4",
                 "resourcePath": "sprites\\spr_leveroff\\spr_leveroff.yy",
                 "resourceType": "GMSprite"
+>>>>>>> master
             }
         },
         {
@@ -474,7 +485,7 @@
             "Key": "b8285d25-0a74-405e-a61a-d085718dbc67",
             "Value": {
                 "id": "81eeca7c-9367-4334-afa3-12e4119891c0",
-                "resourcePath": "rooms\\roomlvl1\\roomlvl1.yy",
+                "resourcePath": "rooms\\roomtest\\roomtest.yy",
                 "resourceType": "GMRoom"
             }
         },

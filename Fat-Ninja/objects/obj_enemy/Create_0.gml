@@ -7,7 +7,11 @@ enemyhealth = 20;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+<<<<<<< HEAD
+/// @DnDHash : 772D783E
+=======
 /// @DnDHash : 75BE6ADE
+>>>>>>> master
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "canchase"
 canchase = 1;
