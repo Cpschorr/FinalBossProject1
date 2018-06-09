@@ -1,10 +1,19 @@
 {
-    "id": "2ab70595-8bfb-4f30-a223-b984b3041070",
+    "id": "5e1c04da-15c9-417e-b4ca-71ff0f590182",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_door1",
+    "name": "obj_playercontroller",
     "eventList": [
-        
+        {
+            "id": "3aa6bcc4-dc7f-4e72-8e9d-148e8a95eba3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "5e1c04da-15c9-417e-b4ca-71ff0f590182"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -23,7 +32,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "882f8a5c-0855-4b95-967c-452c593fbed9",
+    "solid": false,
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
