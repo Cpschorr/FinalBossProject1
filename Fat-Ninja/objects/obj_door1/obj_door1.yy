@@ -1,8 +1,8 @@
 {
-    "id": "a79476ab-7ddc-42b0-9bea-59aff42ab9d5",
+    "id": "2ab70595-8bfb-4f30-a223-b984b3041070",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_sensei",
+    "name": "obj_door1",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "437e387e-99ca-42a1-b8fb-44041ac44334",
+    "spriteId": "882f8a5c-0855-4b95-967c-452c593fbed9",
     "visible": true
 }
